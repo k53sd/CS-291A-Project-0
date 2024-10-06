@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+table {
+    width: 30%;
+    border-collapse: collapse;
+}
+
+table, tr, th, td {
+    border: 2px solid black;
+}
+
+tr, th, td {
+    padding: 10px;
+    text-align: center;
+}
